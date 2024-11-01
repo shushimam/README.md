@@ -1,7 +1,7 @@
 # Olá, bem-vindo ao meu perfil! 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shushimam&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shushimam&layout=compact&theme=dark)
 
 ## Linguagens e Ferramentas
 <p align="left">
