@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-## Redes Sociais
+## Minhas Redes Sociais
 <p align="left">
   <a href="mailto:guilhermealtarugio@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
